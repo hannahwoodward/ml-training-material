@@ -6,4 +6,4 @@ COPY pyproject.toml .
 
 RUN pip install .
 
-COPY * .
+COPY * ./codebase/
