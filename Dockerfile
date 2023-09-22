@@ -6,4 +6,8 @@ COPY pyproject.toml .
 
 RUN pip install .
 
-COPY * ./codebase/
+COPY exercises ./exercises/
+COPY slides ./slides/
+COPY src ./src/
+COPY worked-solutions ./worked-solutions/
+COPY README.md .
