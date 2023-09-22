@@ -7,6 +7,8 @@
 ![GitHub](https://img.shields.io/github/license/Cambridge-ICCS/ml-training-material)
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
+Open with binder: https://mybinder.org/v2/gh/hannahwoodward/ml-training-material/HEAD
+
 This repository contains documentation, resources, and code for the Introduction to
 Machine Learning with PyTorch session designed and delivered by Jack Atkinson ([**@jatkinson1000**](https://github.com/jatkinson1000))
 and Jim Denholm ([**@jdenholm**](https://github.com/jdenholm)) of [ICCS](https://github.com/Cambridge-ICCS).  
